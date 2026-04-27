@@ -275,6 +275,6 @@ git clone https://rendu-git.etna-alternance.net/module-10145/activity-54475/grou
 
 _Project completed at Co-Labs ETNA · ICT-RBT1 Module · April 2026_
 
-`corde_t` · `judea_d` · `kingki_n` · `brouar_l`
+[Corde_t](https://github.com/ThomasC-Banks) • Judea_d • Kingki_n • [Brouar_l](https://github.com/JustKIKS)
 
 </div>
